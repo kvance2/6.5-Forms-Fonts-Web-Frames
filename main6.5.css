@@ -1,3 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.container {
+	width:1000px;
+	margin: 0 auto;
+	background-color: lavender;
+	text-align: center
+}
